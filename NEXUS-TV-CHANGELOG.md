@@ -1,3 +1,11 @@
+# Nexus TV v3.0.1
+
+- Streaming apps from the Nexus home screen now open in a separate browser tab/window.
+- Added a fallback to top-level navigation for TV browsers that block `window.open`.
+- Fixed the center button on the Nexus Remote clickpad so tapping the center dot sends Select.
+- Outer clickpad dragging remains cursor movement and does not accidentally select.
+- Updated cache-busting version to 3.0.1.
+
 ## v3.0.0
 - Improved in-app web app compatibility and startup responsiveness.
 - Removed iframe sandbox restrictions that could break legitimate app pages.
