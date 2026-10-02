@@ -1,3 +1,5 @@
+Nexus TV v3.0.1
+
 # NEXUS TV
 
 **NEXUS TV v3.0.0 — made by nirupamjr!**
