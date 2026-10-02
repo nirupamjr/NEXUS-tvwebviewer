@@ -1,3 +1,9 @@
+## v3.0.0
+- Improved in-app web app compatibility and startup responsiveness.
+- Removed iframe sandbox restrictions that could break legitimate app pages.
+- Added clearer loading/fallback messaging when a site blocks framing or is slow.
+- Preserved the Nexus shell and in-app Back control.
+
 # Changelog
 
 All notable Nexus TV changes are documented here.
